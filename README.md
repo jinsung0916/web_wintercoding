@@ -18,7 +18,7 @@ HTTP로 통신한다.
 
 - Server URL :  http://jinsung0916.pythonanywhere.com/
 
-(Browserble API 사용 가능합니다.)
+(Browsable API 사용 가능합니다.)
 
 ## Show Todo list API
 
